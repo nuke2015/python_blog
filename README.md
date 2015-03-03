@@ -1,3 +1,12 @@
+
+需要开启mongo服务127.0.0.1:27017
+运行python index.py
+
+
+=====
+
+
+
 # flask-blog
 
 simple blog ~~engine~~ written on [Flask](http://flask.pocoo.org/)
